@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1540604592 source:/home/kimo/Desktop/MySimpleShell/main.c
+	<signal.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
+1540605120 source:/Users/fetouh/Desktop/Simpleshell/MySimpleShell/main.c
+	<signal.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
